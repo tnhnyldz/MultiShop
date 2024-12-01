@@ -51,10 +51,11 @@ app.Run();
 
 #region TO DOs
 /*
-optimize namespace names
-add logging and try catch blogs
-optimize services
-optimize appsettings.json collection names
+- optimize namespace names
+- add logging and try catch blogs
+- optimize services
+- optimize appsettings.json collection names
+- add created attributes for entities
 */
 #endregion
 
